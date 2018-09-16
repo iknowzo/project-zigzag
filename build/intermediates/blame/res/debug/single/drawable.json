@@ -1,31 +1,23 @@
 [
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_mono_light.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/btn_generic_focused.9.png",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/btn_generic_focused.9.png"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/messenger_button_white_bg_round.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/drawable/tooltip_frame_dark.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/lb_playback_progress_bar.xml",
@@ -36,32 +28,12 @@
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/action_button_text_color_selector.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/action_button_text_color_selector.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/guillemet.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/guillemet.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_pause_dark.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/fire_app_builder_white.png",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/fire_app_builder_white.png"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
@@ -69,39 +41,7 @@
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/lb_search_orb.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/lb_search_orb.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/synopsis_modal_bg.9.png",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/synopsis_modal_bg.9.png"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/btn_normal.9.png",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/btn_normal.9.png"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
@@ -112,20 +52,20 @@
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_play_light.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_settings_light.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/lb_headers_right_fading.xml",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/drawable/lb_headers_right_fading.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_send_background.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/lb_guidedactions_item_checkmark.xml",
@@ -136,8 +76,16 @@
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_play_dark.xml"
     },
     {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_icon.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/lb_background.xml",
@@ -148,16 +96,12 @@
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/res/drawable/cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/fire_app_builder_white_2.png",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/fire_app_builder_white_2.png"
-    },
-    {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/movie.png",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/movie.png"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_login_silver_background.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/littsymmetry.png",
@@ -165,43 +109,51 @@
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/lb_speech_orb.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/drawable/lb_speech_orb.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_auth_dialog_background.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/ic_alert.png",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/ic_alert.png"
     },
     {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/littfiretvicon.png",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/src/main/res/drawable/littfiretvicon.png"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/src/main/res/drawable/ic_launcher.png"
     },
     {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_background.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
@@ -209,15 +161,11 @@
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/logo.png",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/logo.png"
-    },
-    {
-        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/littsubmissiontransparent.png",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/src/main/res/drawable/littsubmissiontransparent.png"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
@@ -225,7 +173,15 @@
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
@@ -233,7 +189,15 @@
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/powered_by_background.xml",
@@ -242,5 +206,205 @@
     {
         "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/action_button_background.xml",
         "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/action_button_background.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/btn_generic_focused.9.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/btn_generic_focused.9.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_send_button_icon.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/action_button_text_color_selector.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/action_button_text_color_selector.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/guillemet.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/guillemet.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/fire_app_builder_white.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/fire_app_builder_white.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_favicon_blue.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.36.0/res/drawable/com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/lb_search_orb.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/lb_search_orb.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/synopsis_modal_bg.9.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/res/drawable/synopsis_modal_bg.9.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_background.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.36.0/res/drawable/com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/btn_normal.9.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_logo.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.36.0/res/drawable/com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/fire_app_builder_white_2.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable/fire_app_builder_white_2.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/lb_speech_orb.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/drawable/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/littsubmissiontransparent.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/src/main/res/drawable/littsubmissiontransparent.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/messenger_button_white_bg_selector.xml"
     }
 ]
