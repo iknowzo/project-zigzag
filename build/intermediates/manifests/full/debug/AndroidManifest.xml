@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2015-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+A copy of the License is located at
+
+    http://aws.amazon.com/apache2.0/
+
+or in the "license" file accompanying this file. This file is distributed
+on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+express or implied. See the License for the specific language governing
+permissions and limitations under the License.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.litttv.android.lifegenius"
+    android:versionCode="17"
+    android:versionName="2.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="23" />
+
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <!-- Permission for getting voice command controls using media session -->
+    <uses-permission android:name="com.amazon.permission.media.session.voicecommandcontrol" />
+
+    <!-- Required for Facebook Audience and Mopub -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- END -->
+
+
+    <!-- Facebook Audience Network Optional Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Launcher integration -->
+    <uses-permission android:name="com.amazon.device.permission.COMRADE_CAPABILITIES" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- Optional permission for App measurement to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" /> <!-- END Facebook Audience Network Optional Permissions -->
+    <application
+        android:name="com.amazon.android.tv.tenfoot.base.TenFootApp"
+        android:allowBackup="true"
+        android:banner="@drawable/app_banner"
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <!-- MoPub's consent dialog -->
+        <activity
+            android:name="com.mopub.common.privacy.ConsentDialogActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+
+        <!-- All ad formats -->
+        <activity
+            android:name="com.mopub.common.MoPubBrowser"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+
+        <!-- Interstitials -->
+        <activity
+            android:name="com.mopub.mobileads.MoPubActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.mopub.mobileads.MraidActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+
+        <!-- Rewarded Video and Rewarded Playables -->
+        <activity
+            android:name="com.mopub.mobileads.RewardedMraidActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.mopub.mobileads.MraidVideoPlayerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <!-- End of Mopub activities -->
+
+        <activity
+            android:name="com.amazon.android.tv.tenfoot.ui.activities.SplashActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+            <!-- Launcher integration intents -->
+            <!-- Uncomment the below intent filters to enable launcher integration -->
+            <!--
+            <intent-filter>
+                <action android:name="PLAY_CONTENT_FROM_LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="SIGN_IN_FROM_LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            -->
+            <!-- Launcher integration intents complete -->
+        </activity>
+        <activity
+            android:name="com.amazon.android.tv.tenfoot.ui.activities.FullContentBrowseActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.amazon.android.tv.tenfoot.ui.activities.ContentBrowseActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.amazon.android.tv.tenfoot.ui.activities.ContentDetailsActivity"
+            android:exported="true" >
+
+            <!-- Receives the PendingIntent requests to view a specific content. -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <!-- No category needed, because the Intent will specify this class component -->
+            </intent-filter>
+        </activity>
+        <activity android:name="com.amazon.android.tv.tenfoot.ui.activities.ContentSearchActivity" />
+        <activity android:name="com.amazon.android.uamp.ui.PlaybackActivity" /> <!-- Launcher integration -->
+        <!-- Uncomment the below receiver to enable launcher integration -->
+        <!--
+        <receiver android:name="com.amazon.android.contentbrowser.helper.LauncherIntegrationBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="com.amazon.device.REQUEST_CAPABILITIES" >
+                </action>
+            </intent-filter>
+        </receiver>
+        -->
+        <receiver
+            android:name="com.amazon.android.contentbrowser.recommendations.BootCompletedReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.amazon.android.contentbrowser.recommendations.UpdateRecommendationsService"
+            android:enabled="true" />
+        <service
+            android:name="com.amazon.android.contentbrowser.recommendations.DeleteRecommendationService"
+            android:enabled="true" />
+
+        <meta-data
+            android:name="AMZNAP@AMZNPlayer"
+            android:value="UAMP@com.amazon.mediaplayer.module.AMZNMediaPlayerImplCreator" />
+        <meta-data
+            android:name="AMZNAP@VASTAdsPlayer"
+            android:value="IAds@com.amazon.android.ads.vast.module.VastAdsImplCreator" />
+        <meta-data
+            android:name="AMZNAP@PassThroughLogin"
+            android:value="IAuthentication@com.amazon.android.auth.passthrough.PassThroughLoginImplCreator" />
+        <meta-data
+            android:name="AMZNAP@LoggerAnalytics"
+            android:value="IAnalytics@com.amazon.analytics.logger.LoggerAnalyticsImplCreator" />
+
+        <provider
+            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+            android:authorities="com.litttv.android.lifegenius.google_measurement_service"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+    </application>
+
+</manifest>

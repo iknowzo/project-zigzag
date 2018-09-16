@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "200991272165",
+    "firebase_url": "https://lifegenius-210503.firebaseio.com",
+    "project_id": "lifegenius-210503",
+    "storage_bucket": "lifegenius-210503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200991272165:android:9848963e393dbd19",
+        "android_client_info": {
+          "package_name": "com.amazon.analytics.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200991272165-po750r50rv4pt7u1hiv12aqn6uchgk0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmXFa9bbNfs5wzeB6spMHISoMRj5BxVXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/raw/lb_voice_no_input.ogg",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/raw/lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/raw/lb_voice_open.ogg",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/raw/lb_voice_open.ogg"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/raw/lb_voice_failure.ogg",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/raw/lb_voice_failure.ogg"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/raw/lb_voice_success.ogg",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/raw/lb_voice_success.ogg"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/res/raw/gtm_analytics"
+    }
+]

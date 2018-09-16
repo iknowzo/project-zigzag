@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/transition-v22/lb_browse_return_transition.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/transition-v22/lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/transition-v22/lb_browse_entrance_transition.xml",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/transition-v22/lb_browse_entrance_transition.xml"
+    }
+]

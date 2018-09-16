@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/littfiretvicon.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/src/main/res/mipmap-xxhdpi/littfiretvicon.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/littsymmetry.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/src/main/res/mipmap-xxhdpi/littsymmetry.png"
+    },
+    {
+        "merged": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/littsubmissiontransparent.png",
+        "source": "/Users/iMacZo/fire-app-builder-1.0.7/Application/app/src/main/res/mipmap-xxhdpi/littsubmissiontransparent.png"
+    }
+]
